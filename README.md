@@ -6,6 +6,10 @@ Agent 会自动读取代码并给出逻辑解释、逐段注释与潜在问题�
 本项目是「Homework 1：代码助手 Agent」的实现，重点演示 Agent 开发的三项基础能力：
 **LLM 调用、Prompt 设计、工具集成**。
 
+## 仓库地址
+
+- GitHub：<https://github.com/HenryCreel-25/code-agent>
+
 ## 功能特性
 
 - ✅ 基本的 Agent 循环：`输入 → 推理 → 工具调用 → 输出`
